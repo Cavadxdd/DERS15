@@ -14,6 +14,9 @@ namespace DERS15
             Console.WriteLine(Class1.num);
             Console.ReadLine();
 
+
+            int num = 22;
+
         }
     }
 }
